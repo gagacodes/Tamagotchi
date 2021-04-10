@@ -1,7 +1,7 @@
 # Tamagotchi
-meg n gage get a pet the hard way!
+meg n gage get a pet 
 
 
 
 
-A Tamagotchi pet made by drug induced psychosis
+A Tamagotchi pet made with a drug induced psychosis
